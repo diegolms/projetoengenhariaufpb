@@ -24,20 +24,29 @@ if (isset($error)) {
     header('Location: login.php?e='.urlencode($error)); exit;
 }
 
-//$headers = "From: $email_address\r\n"; 
-//$headers .= "Reply-To: $email_address\r\n";
 
-// write the email content
-//$email_content = "Name: $name\n";
-//$email_content .= "Email Address: $email_address\n";
-//$email_content .= "Phone Number: $phone\n";
-//$email_content .= "Message:\n\n$message";
-	
-// send the email
-//ENTER YOUR INFORMATION BELOW FOR THE FORM TO WORK!
-//mail ('YOUR-EMAIL-ADDRESS@YOUR-DOMAIN.com', 'YOUR WEBSITE NAME - Contact Form Submission', $email_content, $headers);
-	
-// send the user back to the form
-header('Location: index.html?s='.urlencode('Bem vindo.')); exit;
+global $_SG;
+$cS = ($_SG['caseSensitive']) ? 'BINARY' : '';
+
+$nEmail = addslashes($email);
+$nSenha = addslashes($senha);
+
+//Conectando com o banco
+$conx = mysql_connect("localhost", "root", "admin") or die('Não foi possível conectar');
+
+mysql_select_db("ProjetoES", $conx);
+
+// Monta uma consulta SQL (query) para procurar um usuário
+$sql = "SELECT * FROM usuario WHERE email = '$email' AND senha = '$senha' LIMIT 1";
+$query = mysql_query($sql);
+$resultado = mysql_fetch_assoc($query);
+
+if(empty($resultado)){
+	header('Location: login.php?e='.urlencode('Usuário não cadastrado.'));
+}
+else {
+	header('Location: index.html?s='.urlencode('Bem Vindo.'));
+}
+mysql_close($conx); exit;
 
 ?>
