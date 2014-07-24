@@ -2,162 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48294b4d-110e-436c-880d-657002bd1717" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ProjetoES.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/ProjetoES.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/ScriptMySQL/scriptSQL.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/cadastro-submissao.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/componeteSoftware.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/css/modern-business.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/especificacao.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/estruturado.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/exempo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/font-awesome/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/font-awesome/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/font-awesome/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/font-awesome/less/bordered-pulled.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/font-awesome/less/core.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/font-awesome/less/fixed-width.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/font-awesome/less/font-awesome.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/font-awesome/less/icons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/font-awesome/less/larger.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/font-awesome/less/list.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/font-awesome/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/font-awesome/less/path.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/font-awesome/less/rotated-flipped.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/font-awesome/less/spinning.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/font-awesome/less/stacked.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/font-awesome/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/font-awesome/scss/_bordered-pulled.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/font-awesome/scss/_core.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/font-awesome/scss/_fixed-width.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/font-awesome/scss/_icons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/font-awesome/scss/_larger.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/font-awesome/scss/_list.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/font-awesome/scss/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/font-awesome/scss/_path.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/font-awesome/scss/_rotated-flipped.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/font-awesome/scss/_spinning.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/font-awesome/scss/_stacked.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/font-awesome/scss/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/font-awesome/scss/font-awesome.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/formulario.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/imagens/gambiarra.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/implementacao.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/info.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/js/jquery-1.10.2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/js/modern-business.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/login-submissao.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/login.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/menu.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modelo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/404.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/blog-home-1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/blog-home-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/blog-post.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/contact-form-submission.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/contact.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/css/modern-business.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/faq.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/font-awesome/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/font-awesome/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/font-awesome/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/font-awesome/less/bordered-pulled.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/font-awesome/less/core.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/font-awesome/less/fixed-width.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/font-awesome/less/font-awesome.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/font-awesome/less/icons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/font-awesome/less/larger.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/font-awesome/less/list.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/font-awesome/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/font-awesome/less/path.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/font-awesome/less/rotated-flipped.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/font-awesome/less/spinning.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/font-awesome/less/stacked.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/font-awesome/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/font-awesome/scss/_bordered-pulled.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/font-awesome/scss/_core.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/font-awesome/scss/_fixed-width.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/font-awesome/scss/_icons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/font-awesome/scss/_larger.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/font-awesome/scss/_list.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/font-awesome/scss/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/font-awesome/scss/_path.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/font-awesome/scss/_rotated-flipped.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/font-awesome/scss/_spinning.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/font-awesome/scss/_stacked.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/font-awesome/scss/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/font-awesome/scss/font-awesome.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/full-width.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/js/jquery-1.10.2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/js/modern-business.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/portfolio-1-col.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/portfolio-2-col.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/portfolio-3-col.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/portfolio-4-col.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/portfolio-item.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/pricing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/services.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/modern-business/sidebar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/novoCadastro.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/orientadoObjeto.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/outrasMetodologia.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/programacaoEstruturada.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/programacaoFuncional.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/programacaoOrientadaObjeto.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/projeto.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/teste.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/uml.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/upload-submissao.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/PaginasWeb/upload.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/bootstrap-3.2.0-dist/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/bootstrap-3.2.0-dist/css/bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/bootstrap-3.2.0-dist/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/bootstrap-3.2.0-dist/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/bootstrap-3.2.0-dist/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/bootstrap-3.2.0-dist/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/bootstrap-3.2.0-dist/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/bootstrap-3.2.0-dist/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/bootstrap-3.2.0-dist/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/bootstrap-3.2.0-dist/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/bootstrap-3.2.0-dist/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/bootstrap-3.2.0-dist/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/exemplo.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/parserXML.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Projeto/uploadVideo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Arquivo Comprimido.zip" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ProjetoES.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -179,10 +26,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="34" selection-end="76" vertical-scroll-proportion="7.7083335">
+            <state line="12" column="22" selection-start="323" selection-end="323" vertical-scroll-proportion="0.3364486">
               <folding />
             </state>
           </provider>
@@ -191,16 +38,7 @@
       <file leaf-file-name="menuHeader.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/menuHeader.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="88" column="20" selection-start="3868" selection-end="3868" vertical-scroll-proportion="-7.4166665">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/login.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="21" selection-start="107" selection-end="107" vertical-scroll-proportion="0.24635036">
+            <state line="88" column="20" selection-start="3868" selection-end="3868" vertical-scroll-proportion="-55.0">
               <folding />
             </state>
           </provider>
@@ -221,7 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/especificacao.php" />
         <option value="$PROJECT_DIR$/projeto.php" />
         <option value="$PROJECT_DIR$/implementacao.php" />
         <option value="$PROJECT_DIR$/teste.php" />
@@ -237,6 +74,7 @@
         <option value="$PROJECT_DIR$/programacaoOrientadaObjeto.php" />
         <option value="$PROJECT_DIR$/login.php" />
         <option value="$PROJECT_DIR$/upload.php" />
+        <option value="$PROJECT_DIR$/mapaConceitual.php" />
       </list>
     </option>
   </component>
@@ -279,6 +117,16 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="ProjetoES" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjetoES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjetoES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -348,14 +196,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="718" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32888147" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22564936" sideWeight="0.67111856" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22564936" sideWeight="0.67111856" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -470,20 +318,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/menuHeader.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="88" column="20" selection-start="3868" selection-end="3868" vertical-scroll-proportion="-7.4166665">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="34" selection-end="76" vertical-scroll-proportion="7.7083335">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/upload.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="100" selection-start="176" selection-end="176" vertical-scroll-proportion="-0.4379562">
@@ -500,7 +334,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="21" selection-start="107" selection-end="107" vertical-scroll-proportion="0.24635036">
+        <state line="5" column="0" selection-start="36" selection-end="78" vertical-scroll-proportion="-3.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mapaConceitual.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="28" selection-start="467" selection-end="467" vertical-scroll-proportion="-9.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connect_to_db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="2" selection-start="272" selection-end="272" vertical-scroll-proportion="0.15734266">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menuHeader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="88" column="20" selection-start="3868" selection-end="3868" vertical-scroll-proportion="-55.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="22" selection-start="323" selection-end="323" vertical-scroll-proportion="0.3364486">
           <folding />
         </state>
       </provider>
