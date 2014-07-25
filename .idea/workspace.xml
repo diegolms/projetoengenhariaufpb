@@ -2,35 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48294b4d-110e-436c-880d-657002bd1717" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Arquivo Comprimido.zip" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/indexTeste.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/info.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/teste.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Arquivo Comprimido.zip" afterPath="$PROJECT_DIR$/Arquivo Comprimido.zip" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/componenteSoftware.php" afterPath="$PROJECT_DIR$/componenteSoftware.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap.css" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/modern-business.css" afterPath="$PROJECT_DIR$/css/modern-business.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/especificacao.php" afterPath="$PROJECT_DIR$/especificacao.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/estruturado.php" afterPath="$PROJECT_DIR$/estruturado.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/implementacao.php" afterPath="$PROJECT_DIR$/implementacao.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/loadMidia.php" afterPath="$PROJECT_DIR$/loadMidia.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login.php" afterPath="$PROJECT_DIR$/login.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mapaConceitual.php" afterPath="$PROJECT_DIR$/mapaConceitual.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menuHeader.php" afterPath="$PROJECT_DIR$/menuHeader.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modelo.php" afterPath="$PROJECT_DIR$/modelo.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/novoCadastro.php" afterPath="$PROJECT_DIR$/novoCadastro.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/orientadoObjeto.php" afterPath="$PROJECT_DIR$/orientadoObjeto.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outrasMetodologias.php" afterPath="$PROJECT_DIR$/outrasMetodologias.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/player.php" afterPath="$PROJECT_DIR$/player.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/programacaoEstruturada.php" afterPath="$PROJECT_DIR$/programacaoEstruturada.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/programacaoFuncional.php" afterPath="$PROJECT_DIR$/programacaoFuncional.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/programacaoOrientadaObjeto.php" afterPath="$PROJECT_DIR$/programacaoOrientadaObjeto.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projeto.php" afterPath="$PROJECT_DIR$/projeto.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/teste.php" afterPath="$PROJECT_DIR$/teste.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uml.php" afterPath="$PROJECT_DIR$/uml.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/upload.php" afterPath="$PROJECT_DIR$/upload.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/upload-submissao.php" afterPath="$PROJECT_DIR$/upload-submissao.php" />
     </list>
     <ignored path="ProjetoES.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -56,10 +34,50 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="login.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/login.php">
+      <file leaf-file-name="player.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/player.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="50" selection-start="1460" selection-end="1460" vertical-scroll-proportion="1.1029412">
+            <state line="37" column="43" selection-start="1555" selection-end="1555" vertical-scroll-proportion="-21.125">
+              <folding>
+                <marker date="1406292284000" expanded="true" signature="1829:1836" placeholder="..." />
+                <marker date="1406292284000" expanded="true" signature="1829:1836" placeholder="..." />
+                <marker date="1406292284000" expanded="true" signature="1829:1836" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="upload-submissao.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/upload-submissao.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="52" selection-start="338" selection-end="338" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testes.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="upload.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/upload.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="9.75">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="connect_to_db.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/connect_to_db.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="2" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -80,11 +98,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/modelo.php" />
-        <option value="$PROJECT_DIR$/novoCadastro.php" />
         <option value="$PROJECT_DIR$/orientadoObjeto.php" />
         <option value="$PROJECT_DIR$/outrasMetodologias.php" />
-        <option value="$PROJECT_DIR$/player.php" />
         <option value="$PROJECT_DIR$/programacaoEstruturada.php" />
         <option value="$PROJECT_DIR$/programacaoOrientadaObjeto.php" />
         <option value="$PROJECT_DIR$/projeto.php" />
@@ -96,6 +111,9 @@
         <option value="$PROJECT_DIR$/estruturado.php" />
         <option value="$PROJECT_DIR$/programacaoFuncional.php" />
         <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/connect_to_db.php" />
+        <option value="$PROJECT_DIR$/player.php" />
+        <option value="$PROJECT_DIR$/upload-submissao.php" />
       </list>
     </option>
   </component>
@@ -131,7 +149,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -166,6 +183,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -173,8 +191,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="preferences.general" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -236,9 +254,8 @@
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32888147" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22564936" sideWeight="0.67111856" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33603895" sideWeight="0.0" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -247,6 +264,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32888147" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -304,114 +322,96 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/programacaoEstruturada.php">
+    <entry file="file://$PROJECT_DIR$/programacaoFuncional.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="278" selection-end="278" vertical-scroll-proportion="0.41360295">
-          <folding />
-        </state>
+        <state line="8" column="27" selection-start="176" selection-end="176" vertical-scroll-proportion="0.22058824" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programacaoOrientadaObjeto.php">
+    <entry file="file://$PROJECT_DIR$/estruturado.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="299" selection-end="299" vertical-scroll-proportion="0.46875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projeto.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="104" selection-end="104" vertical-scroll-proportion="0.13786764">
-          <folding />
-        </state>
+        <state line="4" column="34" selection-start="103" selection-end="103" vertical-scroll-proportion="0.11029412" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/uml.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="260" selection-end="260" vertical-scroll-proportion="0.46875">
+        <state line="17" column="0" selection-start="260" selection-end="260" vertical-scroll-proportion="0.46875" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programacaoEstruturada.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="278" selection-end="278" vertical-scroll-proportion="0.43103448" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/orientadoObjeto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/novoCadastro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mapaConceitual.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outrasMetodologias.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menuHeader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="62" selection-start="4032" selection-end="4032" vertical-scroll-proportion="0.9190207" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="50" selection-start="1460" selection-end="1460" vertical-scroll-proportion="-25.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loadMidia.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connect_to_db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="2" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/player.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="43" selection-start="1555" selection-end="1555" vertical-scroll-proportion="-21.125">
+          <folding>
+            <marker date="1406292284000" expanded="true" signature="1829:1836" placeholder="..." />
+            <marker date="1406292284000" expanded="true" signature="1829:1836" placeholder="..." />
+            <marker date="1406292284000" expanded="true" signature="1829:1836" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="9.75">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/upload-submissao.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="8" column="52" selection-start="338" selection-end="338" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/upload.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="104" selection-end="104" vertical-scroll-proportion="0.13786764">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/head.php">
+    <entry file="file://$PROJECT_DIR$/testes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/menuHeader.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="89" column="62" selection-start="4032" selection-end="4032" vertical-scroll-proportion="0.91525424">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/loadMidia.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.75141245">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="10" selection-start="1965" selection-end="1965" vertical-scroll-proportion="0.68926555">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/especificacao.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/teste.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="262" selection-end="262" vertical-scroll-proportion="0.44117647">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/implementacao.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="103" vertical-scroll-proportion="-0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programacaoFuncional.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="27" selection-start="176" selection-end="176" vertical-scroll-proportion="0.22058824">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/estruturado.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="34" selection-start="103" selection-end="103" vertical-scroll-proportion="0.11029412">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="50" selection-start="1460" selection-end="1460" vertical-scroll-proportion="1.1029412">
           <folding />
         </state>
       </provider>

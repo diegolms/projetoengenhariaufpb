@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+    <!DOCTYPE html>
 <html lang="en">
 <?php include("head.php");?>
 <body>
@@ -33,7 +33,16 @@
                             <object width="600" height="500" type="application/pdf" data="'.$video.'" id="pdf_content">
                         ';
                     }
-                    else{
+                    else if(strcmp($type, "mp3") == 0){
+                        echo '
+                        <audio id="video1" controls autoplay="autoplay">
+                          <source src='.$video.' type="audio/mpeg">
+                          <source src='.$video.' type="audio/ogg">
+                          <embed id="video1" height="50" width="100" src='.$video.'>
+                        </audio>
+                        ';
+
+                    }else{
                         echo '
                             <video id="video1" width="640" height="480" controls="controls" autoplay="autoplay">
                             <source src="'.$video.'" type="video/mp4">

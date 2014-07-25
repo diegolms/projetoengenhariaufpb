@@ -2,9 +2,11 @@
     
         include'connect_to_db.php';
     
-        $targetURL = "uploadFiles/"; //folder where to save the uploaded file/video
-        $target = $targetURL . basename( $_FILES['arquivo']['name']) ; //gets the name of the upload file
+        $targetURL = "uploadFiles/";
+        $target = $targetURL . basename( $_FILES['arquivo']['name']) ;
+        $target = str_replace(' ', '', $target);
         $targetXml = $targetURL . basename( $_FILES['arquivoXML']['name']) ;
+        $targetXml = str_replace(' ', '', $targetXml);
         $targetTitulo = $_POST['titulo'];
         $categoria = $_POST['categoria'];
         if(move_uploaded_file($_FILES['arquivoXML']['tmp_name'], $targetXml)){
