@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/componenteSoftware.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/especificacao.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/implementacao.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/index.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modelo.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/orientadoObjeto.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/outrasMetodologias.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/programacaoEstruturada.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/programacaoFuncional.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/programacaoOrientadaObjeto.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projeto.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/teste.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/uml.php" charset="UTF-8" />
+  </component>
 </project>
 

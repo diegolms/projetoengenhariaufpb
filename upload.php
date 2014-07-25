@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-
+<?php include("head.php");?>
 <body>
-<?php include("menuHeader.php"); ?>
+<?php include("menuHeader.php");?>
+
 		<?php
 			if (isset($_GET['s'])) echo "<div class=\"alert alert-success\">".$_GET['s']."</div>";
 			elseif (isset($_GET['e'])) echo "<div class=\"alert alert-danger\">".$_GET['e']."</div>";  

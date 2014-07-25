@@ -9,6 +9,8 @@ html {
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
+  @charset "UTF-8";
+
 }
 body {
   margin: 0;
@@ -5832,7 +5834,7 @@ td.visible-print {
    position:absolute;
    bottom:0;
    width:100%;
-   height:60px;   /* Mesma Altura do Rodapé */
+   height:60px;   /* Mesma Altura do Rodapï¿½ */
    background:#6cf;
 }
 /*# sourceMappingURL=bootstrap.css.map */

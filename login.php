@@ -1,10 +1,8 @@
 <!DOCTYPE html>
-
-
 <html lang="en">
-
+<?php include("head.php");?>
 <body>
-<?php include("menuHeader.php"); ?>
+<?php include("menuHeader.php");?>
 
     <br>
 	<div class="row">
@@ -17,10 +15,7 @@
 	
 		<?php  
 
-			// check for a successful form post  
-			if (isset($_GET['s'])) echo "<div class=\"alert alert-success\">".$_GET['s']."</div>";  
-	  
-			// check for a form error  
+			if (isset($_GET['s'])) echo "<div class=\"alert alert-success\">".$_GET['s']."</div>";
 			elseif (isset($_GET['e'])) echo "<div class=\"alert alert-danger\">".$_GET['e']."</div>";  
 
 		?>
@@ -48,7 +43,7 @@
           </div>
         </div>
 		<div class="col-sm-offset-4 col-sm-10">
-           <p><a href="novoCadastro.php">Novo Usu�rio</a>.</p>
+           <p><a href="novoCadastro.php">Novo Usuário</a>.</p>
         </div>
         <div class="form-group">
           <div class="col-sm-offset-4 col-sm-10">

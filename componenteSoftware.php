@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
+<?php include("head.php");?>
 <body>
-<?php include("menuHeader.php"); ?>
+<?php include("menuHeader.php");?>
 
 	<div class="col-md-9">
 		<div class="text-justify">
@@ -11,5 +12,4 @@
 	</div>
 
 </body>
-
 </html>
