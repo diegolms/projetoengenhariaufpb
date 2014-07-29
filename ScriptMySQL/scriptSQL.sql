@@ -35,7 +35,7 @@ ON DELETE CASCADE;
 insert into categoria (categoria,descricao) values ('Especificação','Descrição Especificação');
 insert into categoria (categoria,descricao) values ('Projeto','Descrição Projeto');
 insert into categoria (categoria,descricao) values ('Implementação','Descrição Implementação');
-insert into categoria (categoria,descricao) values (‘Testes’,’Descrição Testes);
+insert into categoria (categoria,descricao) values ('Testes','Descrição Testes');
 insert into categoria (categoria,descricao) values ('Modelo','Descrição Modelo');
 insert into categoria (categoria,descricao) values ('Estruturado','Descrição Estruturado');
 insert into categoria (categoria,descricao) values ('Orientado a Objeto','Descrição Orientado a Objeto');

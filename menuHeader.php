@@ -1,3 +1,17 @@
+<?php
+    ob_start();
+    session_start();
+
+$logado = '';
+if((!isset ($_SESSION['login']) == true) and (!isset ($_SESSION['senha']) == true)) {
+    unset($_SESSION['login']);
+    unset($_SESSION['senha']);
+}
+else{
+$logado = $_SESSION['login'];
+}
+?>
+
 <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
     <div class="container">
         <div class="navbar-header">
@@ -74,7 +88,25 @@
                 <li>
                     <a href="mapaConceitual.php">Mapa Conceitual</a>
                 </li>
-                <li><a href="login.php">Login</a>
+                <?php
+                if(strcmp($logado, '') == 0){
+
+                   echo '<li><a href="login.php">Login</a>';
+                }
+                else{
+                    echo '<li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">'.$logado.'<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                    <li>
+                        <a href="upload.php">Carregar Vídeo</a>
+                    </li>
+                    <li>
+                        <a href="logout.php">Sair</a>
+                    </li>
+                     ';
+                }
+                ?>
+
                 </li>
 
             </ul>
@@ -89,3 +121,6 @@
     <script type='text/javascript' src='js/jquery.simplemodal.js'></script>
     <script type='text/javascript' src='js/basic.js'></script>
 </nav>
+<?php
+ob_end_flush();
+?>

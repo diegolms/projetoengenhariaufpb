@@ -37,16 +37,20 @@
                         echo '
                         <audio id="video1" controls autoplay="autoplay">
                           <source src='.$video.' type="audio/mpeg">
-                          <source src='.$video.' type="audio/ogg">
+                          <source src=$type type="audio/ogg">
                           <embed id="video1" height="50" width="100" src='.$video.'>
                         </audio>
                         ';
 
                     }else{
                         echo '
-                            <video id="video1" width="640" height="480" controls="controls" autoplay="autoplay">
-                            <source src="'.$video.'" type="video/mp4">
-                            </video>
+                        <video id="video1" width="640" height="480" controls autoplay="autoplay">
+                          <source src='.$video.' type="video/mp4">
+                          <source src='.$video.' type="video/ogg">
+                          <object data='.$video.' width="640" height="480">
+                            <embed src='.$video.' width="640" height="480">
+                          </object>
+                        </video>
                         ';
                     }
                 ?>

@@ -2,7 +2,8 @@
 <html lang="en">
 <?php include("head.php");?>
 <body>
-<?php include("menuHeader.php");?>
+<?php include("menuHeader.php");
+?>
 
 		<?php
 			if (isset($_GET['s'])) echo "<div class=\"alert alert-success\">".$_GET['s']."</div>";
