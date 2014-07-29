@@ -5,11 +5,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/audio.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ScriptMySQL/scriptSQL.sql" afterPath="$PROJECT_DIR$/ScriptMySQL/scriptSQL.sql" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login-submissao.php" afterPath="$PROJECT_DIR$/login-submissao.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menuHeader.php" afterPath="$PROJECT_DIR$/menuHeader.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/player.php" afterPath="$PROJECT_DIR$/player.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/upload.php" afterPath="$PROJECT_DIR$/upload.php" />
     </list>
     <ignored path="ProjetoES.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,10 +31,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="login-submissao.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="login-submissao.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/login-submissao.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="31" selection-start="1355" selection-end="1355" vertical-scroll-proportion="0.0">
+            <state line="49" column="32" selection-start="1514" selection-end="1514" vertical-scroll-proportion="0.6978022">
               <folding />
             </state>
           </provider>
@@ -56,7 +52,7 @@
       <file leaf-file-name="login.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="50" selection-start="1460" selection-end="1460" vertical-scroll-proportion="-28.125">
+            <state line="45" column="50" selection-start="1460" selection-end="1460" vertical-scroll-proportion="0.75">
               <folding />
             </state>
           </provider>
@@ -92,10 +88,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="logout.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="logout.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/logout.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="2" selection-start="117" selection-end="117" vertical-scroll-proportion="0.13736264">
+            <state line="5" column="2" selection-start="117" selection-end="117" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -137,10 +133,10 @@
         <option value="$PROJECT_DIR$/uploadd.php" />
         <option value="$PROJECT_DIR$/js/basic.js" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/login-submissao.php" />
         <option value="$PROJECT_DIR$/menuHeader.php" />
         <option value="$PROJECT_DIR$/upload.php" />
         <option value="$PROJECT_DIR$/logout.php" />
+        <option value="$PROJECT_DIR$/login-submissao.php" />
       </list>
     </option>
   </component>
@@ -396,30 +392,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="50" selection-start="1460" selection-end="1460" vertical-scroll-proportion="-28.125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="32" selection-start="101" selection-end="101" vertical-scroll-proportion="13.5">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login-submissao.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="31" selection-start="1355" selection-end="1355" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cadastro-submissao.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="97" selection-start="1508" selection-end="1605" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -443,7 +418,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/logout.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="2" selection-start="117" selection-end="117" vertical-scroll-proportion="0.13736264">
+        <state line="5" column="2" selection-start="117" selection-end="117" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cadastro-submissao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="97" selection-start="1508" selection-end="1605" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="50" selection-start="1460" selection-end="1460" vertical-scroll-proportion="0.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login-submissao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="32" selection-start="1514" selection-end="1514" vertical-scroll-proportion="0.6978022">
           <folding />
         </state>
       </provider>

@@ -46,7 +46,7 @@ if(empty($resultado)){
 	header('Location: login.php?e='.urlencode('Usuário não cadastrado.'));
 }
 else {
-    $_SESSION['login'] = $email;
+    $_SESSION['login'] = $resultado['nome'];
     $_SESSION['senha'] = $senha;
 	header('Location: index.php?s='.urlencode('Bem Vindo.'));
 }
