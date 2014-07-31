@@ -1,7 +1,7 @@
 <?php
     
         include'connect_to_db.php';
-    
+
         $targetURL = "uploadFiles/";
         $target = $targetURL . basename( $_FILES['arquivo']['name']) ;
         $target = str_replace(' ', '', $target);

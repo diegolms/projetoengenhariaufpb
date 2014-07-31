@@ -25,7 +25,7 @@
         <div class="form-group">
           <label for="emailLogin" class="col-sm-4 control-label">Email</label>
           <div class="col-sm-4">
-            <input type="email" class="form-control" name="emailLogin" placeholder="Digite seu email">
+            <input type="email" class="form-control" name="emailLogin" id="emailLogin" placeholder="Digite seu email">
           </div>
         </div>
         <div class="form-group">
