@@ -2,8 +2,7 @@
 <html lang="en">
 <?php include("head.php");?>
 <body>
-<?php include("menuHeader.php");
-?>
+<?php include("menuHeader.php");?>
 
 		<?php
 			if (isset($_GET['s'])) echo "<div class=\"alert alert-success\">".$_GET['s']."</div>";
@@ -19,13 +18,13 @@
             </div>
 
             <div class="form-group">
-                <div class="col-sm-offset-4 col-sm-5">
+                <div class="col-sm-offset-4 col-sm-4">
                     Título
                     <input name="titulo" id="titulo" type="text" class="form-control"  placeholder="Titulo">
                     Midia
-                    <input name="file1" id="file1" class="form-control" size="40" type="file">
+                    <input name="file1" id="file1" class="form-control" type="file">
                     Arquivo XML
-                    <input name="arquivoXML" id="arquivoXML" class="form-control" size="40" type="file">
+                    <input name="arquivoXML" id="arquivoXML" class="form-control" type="file">
 
                     Categoria
                     <select name="categoria" id="categoria" class="form-control">
@@ -84,6 +83,7 @@
         else{
 
             _("progressForm").style.display = 'block';
+            _("status").innerHTML = "";
             var arquivo = _("file1").files[0];
             var arquivoXML = _("arquivoXML").files[0];
             var categoria = _("categoria").value;
@@ -106,7 +106,7 @@
        // _("loaded_n_total").innerHTML = "Uploaded "+event.loaded+" bytes of "+event.total;
         var percent = (event.loaded / event.total) * 100;
         _("progressBar").value = Math.round(percent);
-        _("porcentagem").innerHTML = Math.round(percent)+"%";
+        _("porcentagem").innerHTML = "Carregando... " + Math.round(percent)+"%";
     }
     function completeHandler(event){
         _("status").innerHTML = event.target.responseText;

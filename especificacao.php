@@ -4,9 +4,9 @@
 <body>
 <?php include("menuHeader.php");?>
 
-	<div class="col-md-9">
+	<div class="col-md-12">
 		<div class="text-justify">
-			<h2>Especificação de Software</h2></br>
+			<h2 align="center">Especificação de Software</h2></br>
 			<h4>Escrever alguma coisa sobre isso</h4>
 		</div>
 	</div>

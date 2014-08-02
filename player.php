@@ -1,8 +1,11 @@
-    <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <?php include("head.php");?>
 <body>
-<?php include("menuHeader.php");?>
+<?php include("menuHeader.php");
+header('X-Frame-Options: SAMEORIGIN');
+?>
+
 
 
 	<div class="col-md-9">
@@ -33,6 +36,13 @@
                             <object width="600" height="500" type="application/pdf" data="'.$video.'" id="pdf_content">
                         ';
                     }
+                    if(strcmp($type, "ppt") == 0){
+
+                        echo '
+
+                          <object width="600" height="500" type="application/vnd.ms-powerpoint" data="'.$video.'" id="pdf_content">
+                        ';
+                    }
                     else if(strcmp($type, "mp3") == 0){
                         echo '
                         <audio id="video1" controls autoplay="autoplay">
@@ -47,6 +57,7 @@
                         <video id="video1" width="640" height="480" controls autoplay="autoplay">
                           <source src='.$video.' type="video/mp4">
                           <source src='.$video.' type="video/ogg">
+                          <source src='.$video.' type="video/avi">
                           <object data='.$video.' width="640" height="480">
                             <embed src='.$video.' width="640" height="480">
                           </object>

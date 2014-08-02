@@ -9,7 +9,7 @@
         <h2>Mapa Conceitual</h2></br>
         <?php
         include'connect_to_db.php';
-        $query = mysqli_query($con,"select * from categoria");
+        $query = mysqli_query($con, " select * from categoria");
         while($vid = mysqli_fetch_array($query)){
             $id = $vid['id_categoria'];
             $categoria = $vid['categoria'];

@@ -5,9 +5,11 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/audio.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login.php" afterPath="$PROJECT_DIR$/login.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/novoCadastro.php" afterPath="$PROJECT_DIR$/novoCadastro.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/upload-submissao.php" afterPath="$PROJECT_DIR$/upload-submissao.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ScriptMySQL/scriptSQL.sql" afterPath="$PROJECT_DIR$/ScriptMySQL/scriptSQL.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/connect_to_db.php" afterPath="$PROJECT_DIR$/connect_to_db.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/especificacao.php" afterPath="$PROJECT_DIR$/especificacao.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mapaConceitual.php" afterPath="$PROJECT_DIR$/mapaConceitual.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/player.php" afterPath="$PROJECT_DIR$/player.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/upload.php" afterPath="$PROJECT_DIR$/upload.php" />
     </list>
     <ignored path="ProjetoES.iws" />
@@ -34,55 +36,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="upload-submissao.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/upload-submissao.php">
+      <file leaf-file-name="mapaConceitual.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mapaConceitual.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="47" selection-end="47" vertical-scroll-proportion="0.0">
+            <state line="11" column="36" selection-start="283" selection-end="283" vertical-scroll-proportion="-6.875">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="file_upload_parser.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/file_upload_parser.php">
+      <file leaf-file-name="especificacao.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/especificacao.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0">
+            <state line="7" column="29" selection-start="153" selection-end="153" vertical-scroll-proportion="-4.375">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/login.php">
+      <file leaf-file-name="scriptSQL.sql" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ScriptMySQL/scriptSQL.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="105" selection-start="510" selection-end="537" vertical-scroll-proportion="-10.25">
+            <state line="33" column="175" selection-start="1116" selection-end="1116" vertical-scroll-proportion="0.4864865">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login-submissao.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/login-submissao.php">
+      <file leaf-file-name="player.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/player.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="61" selection-start="856" selection-end="895" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="upload.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/upload.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="85" column="54" selection-start="2926" selection-end="2926" vertical-scroll-proportion="0.68390805">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="upload_form.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/upload_form.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="4" selection-start="1098" selection-end="1098" vertical-scroll-proportion="-6.4166665">
+            <state line="42" column="23" selection-start="1569" selection-end="1569" vertical-scroll-proportion="-11.875">
               <folding />
             </state>
           </provider>
@@ -103,11 +87,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/connect_to_db.php" />
-        <option value="$PROJECT_DIR$/player.php" />
-        <option value="$PROJECT_DIR$/ScriptMySQL/scriptSQL.sql" />
-        <option value="$PROJECT_DIR$/upload_frame.php" />
-        <option value="$PROJECT_DIR$/uploadd.php" />
         <option value="$PROJECT_DIR$/js/basic.js" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/menuHeader.php" />
@@ -118,7 +97,12 @@
         <option value="$PROJECT_DIR$/upload-submissao.php" />
         <option value="$PROJECT_DIR$/login.php" />
         <option value="$PROJECT_DIR$/file_upload_parser.php" />
+        <option value="$PROJECT_DIR$/connect_to_db.php" />
         <option value="$PROJECT_DIR$/upload.php" />
+        <option value="$PROJECT_DIR$/especificacao.php" />
+        <option value="$PROJECT_DIR$/player.php" />
+        <option value="$PROJECT_DIR$/mapaConceitual.php" />
+        <option value="$PROJECT_DIR$/ScriptMySQL/scriptSQL.sql" />
       </list>
     </option>
   </component>
@@ -154,7 +138,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -173,8 +156,37 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjetoES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjetoES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScriptMySQL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjetoES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProjetoES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -246,7 +258,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26542208" sideWeight="0.0" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27516234" sideWeight="0.0" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
@@ -313,94 +325,114 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/connect_to_db.php">
+    <entry file="file://$PROJECT_DIR$/file_upload_parser.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="2" selection-start="272" selection-end="272" vertical-scroll-proportion="0.15845071" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/basic.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="7" selection-start="945" selection-end="945" vertical-scroll-proportion="0.7027027" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/head.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="20" selection-start="249" selection-end="253" vertical-scroll-proportion="0.22058824" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/loadMidia.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="46" selection-start="1007" selection-end="1007" vertical-scroll-proportion="0.028248588" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/menuHeader.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="103" column="49" selection-start="4389" selection-end="4389" vertical-scroll-proportion="0.5284872" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="32" selection-start="101" selection-end="101" vertical-scroll-proportion="0.11299435" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cadastro-submissao.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="97" selection-start="1508" selection-end="1605" vertical-scroll-proportion="1.1891892" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logout.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="2" selection-start="117" selection-end="117" vertical-scroll-proportion="0.13204226" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/player.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="55" selection-start="1445" selection-end="1480" vertical-scroll-proportion="0.39548022" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/novoCadastro.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="10" selection-start="2580" selection-end="2580" vertical-scroll-proportion="1.4775281" />
+        <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="-0.1033275">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/upload-submissao.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="47" selection-end="47" vertical-scroll-proportion="0.0">
+        <state line="3" column="0" selection-start="47" selection-end="47" vertical-scroll-proportion="0.078809105">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login.php">
+    <entry file="file://$PROJECT_DIR$/connect_to_db.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="105" selection-start="510" selection-end="537" vertical-scroll-proportion="-10.25">
+        <state line="1" column="4" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/upload_form.php">
+    <entry file="file://$PROJECT_DIR$/css/modern-business.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="4" selection-start="1098" selection-end="1098" vertical-scroll-proportion="-6.4166665">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.04797048">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/file_upload_parser.php">
+    <entry file="file://$PROJECT_DIR$/css/demo.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login-submissao.php">
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="61" selection-start="856" selection-end="895" vertical-scroll-proportion="0.0">
+        <state line="6" column="8972" selection-start="9137" selection-end="9142" vertical-scroll-proportion="0.17013232">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/basic.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/basic_ie.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="31" selection-start="634" selection-end="689" vertical-scroll-proportion="0.23728813">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1070" column="7" selection-start="16743" selection-end="16743" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/upload.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="54" selection-start="2926" selection-end="2926" vertical-scroll-proportion="0.68390805">
+        <state line="10" column="10" selection-start="303" selection-end="303" vertical-scroll-proportion="27.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login-submissao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/player.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="23" selection-start="1569" selection-end="1569" vertical-scroll-proportion="-11.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mapaConceitual.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="36" selection-start="283" selection-end="283" vertical-scroll-proportion="-6.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/especificacao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="29" selection-start="153" selection-end="153" vertical-scroll-proportion="-4.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScriptMySQL/scriptSQL.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="175" selection-start="1116" selection-end="1116" vertical-scroll-proportion="0.4864865">
           <folding />
         </state>
       </provider>
