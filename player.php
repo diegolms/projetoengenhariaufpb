@@ -1,14 +1,11 @@
-<!DOCTYPE html>
+    <!DOCTYPE html>
 <html lang="en">
 <?php include("head.php");?>
 <body>
-<?php include("menuHeader.php");
-header('X-Frame-Options: SAMEORIGIN');
-?>
+<?php include("menuHeader.php");?>
 
 
-
-	<div class="col-md-9">
+	<div class="col-md-12">
 		<div class="text-justify">
             <?php
                 include'connect_to_db.php';
@@ -33,14 +30,7 @@ header('X-Frame-Options: SAMEORIGIN');
                 <?php
                     if(strcmp($type, "pdf") == 0){
                         echo '
-                            <object width="600" height="500" type="application/pdf" data="'.$video.'" id="pdf_content">
-                        ';
-                    }
-                    if(strcmp($type, "ppt") == 0){
-
-                        echo '
-
-                          <object width="600" height="500" type="application/vnd.ms-powerpoint" data="'.$video.'" id="pdf_content">
+                            <object width="600" height="500" type="application/pdf" data='.$video.' id="pdf_content">
                         ';
                     }
                     else if(strcmp($type, "mp3") == 0){

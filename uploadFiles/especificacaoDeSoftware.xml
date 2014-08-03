@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<engenhariaDeSoftware>
+    <conceito>
+        <titulo>Especificação de Software</titulo>
+        <tempo>0:00</tempo>
+    </conceito>
+    <conceito>
+        <titulo>Especificação de Sistemas Críticos</titulo>
+        <tempo>0:15</tempo>
+    </conceito>
+    <conceito>
+        <titulo>Especificação Dirigida a Riscos</titulo>
+        <tempo>1:05</tempo>
+    </conceito>
+    <conceito>
+        <titulo>Especificação de Segurança</titulo>
+        <tempo>1:56</tempo>
+    </conceito>
+    <conceito>
+        <titulo>Especificação de Proteção</titulo>
+        <tempo>2:49</tempo>
+    </conceito>
+    <conceito>
+        <titulo>Especificação de Confiabilidade de Software</titulo>
+        <tempo>3:46</tempo>
+    </conceito>
+    <conceito>
+        <titulo>Considerações Finais</titulo>
+        <tempo>4:34</tempo>
+    </conceito>
+</engenhariaDeSoftware>
